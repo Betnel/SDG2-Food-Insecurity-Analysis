@@ -17,7 +17,7 @@ It highlights uneven progress, persistent nutrition gaps, and vulnerabilities to
 
 ## 📂 Contents
 - `SDG2 food insecurity .ipynb` → Jupyter Notebook (CRISP–DM analysis, visuals, clustering/tiers)  
-- `SDG2_Food Insecurity_Summary.pdf` → 1-page stakeholder summary  
+- `SDG2_Food Insecurity_Summary.pdf` → 1-page summary  
 
 ## 🚀 How to Run
 ```bash
