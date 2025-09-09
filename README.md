@@ -96,7 +96,8 @@ The project follows \*\*CRISP–DM\*\* steps:
 
 &nbsp;  ```bash
 
-&nbsp;  git clone https://github.com/USERNAME/SDG2-Food-Insecurity-Analysis.git
+&nbsp; git clone https://github.com/Betnel/SDG2-Food-Insecurity-Analysis.git
+   cd SDG2-Food-Insecurity-Analysis
 
 
 
